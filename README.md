@@ -41,26 +41,6 @@ I'm a third-year undergraduate in Information and Communication Technology at Uv
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50" />
 </div>
 
-## <font color="#FF00FF">📂 Projects</font>
-
-### <font color="#FF00FF">Crown Clothing eCommerce App</font>
-<font color="#39FF14">
-- **Technologies:** React.js, Firebase, Redux, Context API, Stripe API, SCSS, Jest, JavaScript  
-- **Highlights:**
-  - Implemented responsive design to boost mobile user engagement.
-  - Built a scalable eCommerce platform with 20+ product listings and secure payment processing.
-  - Leveraged Redux and Context API for efficient state management, reducing component re-renders.
-</font>
-
-### <font color="#FF00FF">Milano Restaurant Online Food Ordering System</font>
-<font color="#39FF14">
-- **Technologies:** React.js, Firebase, SCSS, Context API, JavaScript  
-- **Highlights:**
-  - Designed and implemented a responsive user interface ensuring seamless navigation across devices.
-  - Integrated Firebase for real-time data management, enhancing handling of reservations and customer interactions.
-  - Developed interactive components that dynamically display content, improving user engagement.
-</font>
-
 
 ## 📂 Projects
 
